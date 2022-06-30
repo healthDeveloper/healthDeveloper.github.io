@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://healthdeveloper.github.io/2022/06/30/health-24/</loc>
+    
+    <lastmod>2022-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://healthdeveloper.github.io/2022/06/30/health-23/</loc>
+    
+    <lastmod>2022-06-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://healthdeveloper.github.io/2022/06/26/health-010/</loc>
     
     <lastmod>2022-06-28</lastmod>
@@ -193,7 +207,7 @@
 
   <url>
     <loc>https://healthdeveloper.github.io/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -201,35 +215,35 @@
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/SARS/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/beauty/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/fitness/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/omicron/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/%E6%B1%97%E7%96%B1%E7%96%B9/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -238,35 +252,35 @@
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/SARS/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/beauty/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/fitness/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/omicron/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/%E6%B1%97%E7%96%B1%E7%96%B9/</loc>
-    <lastmod>2022-06-28</lastmod>
+    <lastmod>2022-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
