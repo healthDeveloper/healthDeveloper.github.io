@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://healthdeveloper.github.io/2023/09/10/health-29/</loc>
+    
+    <lastmod>2023-09-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://healthdeveloper.github.io/2023/09/08/health-28/</loc>
     
     <lastmod>2023-09-08</lastmod>
@@ -292,7 +301,7 @@
 
   <url>
     <loc>https://healthdeveloper.github.io/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -300,49 +309,49 @@
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/SARS/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/fitness/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/%E6%B1%97%E7%96%B1%E7%96%B9/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/beauty/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/omicron/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/monkeypox/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/tags/Smallpox/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -351,42 +360,42 @@
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/SARS/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/fitness/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/%E6%B1%97%E7%96%B1%E7%96%B9/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/beauty/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/omicron/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://healthdeveloper.github.io/categories/Infectious-Disease/</loc>
-    <lastmod>2023-09-08</lastmod>
+    <lastmod>2023-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
